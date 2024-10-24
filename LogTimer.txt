@@ -1,0 +1,4 @@
+fetchData : 2179.0481 
+
+Insert Data : 128416.4536 
+
